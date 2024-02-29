@@ -3,29 +3,29 @@
 ## Tech Stack
 corningcode/element-plus is built on the following main stack:
 
-- [CircleCI](https://circleci.com/) – Continuous Integration
-- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [Normalize.css](https://necolas.github.io/normalize.css/) – CSS Pre-processors / Extensions
+- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
+- [Vue.js](http://vuejs.org/) – Javascript UI Libraries
+- [CircleCI](https://circleci.com/) – Continuous Integration
 - [Codecov](https://codecov.io/) – Code Coverage
 - [ESLint](http://eslint.org/) – Code Review
-- [Vue.js](http://vuejs.org/) – Javascript UI Libraries
-- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- [Normalize.css](https://necolas.github.io/normalize.css/) – CSS Pre-processors / Extensions
+- [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
 - [Prettier](https://prettier.io/) – Code Review
-- [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) – Headless Browsers
 - [Sucrase](https://sucrase.io/) – JavaScript Compilers
-- [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
-- [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
-- [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
+- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -35,29 +35,29 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 corningcode/element-plus is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/6361/default_8c8faac34fdcb5b696503f5166b5232ad0adcf6e.png' alt='Normalize.css'/> [Normalize.css](https://necolas.github.io/normalize.css/) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/3837/paeckCWC.png' alt='Vue.js'/> [Vue.js](http://vuejs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3837/paeckCWC.png' alt='Vue.js'/> [Vue.js](http://vuejs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/6361/default_8c8faac34fdcb5b696503f5166b5232ad0adcf6e.png' alt='Normalize.css'/> [Normalize.css](https://necolas.github.io/normalize.css/) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png' alt='Esbuild'/> [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/9827/octokit-dotnet_2.png' alt='Octokit'/> [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
 - <img width='25' height='25' src='https://img.stackshare.io/service/7553/puppeteer.png' alt='Puppeteer'/> [Puppeteer](https://github.com/GoogleChrome/puppeteer) – Headless Browsers
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Sucrase'/> [Sucrase](https://sucrase.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/9827/octokit-dotnet_2.png' alt='Octokit'/> [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
-- <img width='25' height='25' src='https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png' alt='Prism'/> [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png' alt='Esbuild'/> [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png' alt='Prism'/> [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -68,7 +68,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [corningcode/element-plus](https://github.com/corningcode/element-plus)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|75<br/>Tools used|02/01/24 <br/>Report generated|
+|75<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
