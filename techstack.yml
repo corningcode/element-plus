@@ -2,7 +2,7 @@ repo_name: corningcode/element-plus
 report_id: 0af6f768f66425a15c174359c2c5735f
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-01T02:34:00+00:00'
+timestamp: '2024-02-29T19:48:58+00:00'
 requested_by: element-bot
 provider: github
 branch: dev
@@ -167,7 +167,7 @@ tools:
   last_updated_by: 三咲智子
   last_updated_on: 2022-04-07 16:40:25.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.6.2
   license: MIT
